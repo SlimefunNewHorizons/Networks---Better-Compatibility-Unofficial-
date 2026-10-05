@@ -1,9 +1,9 @@
 > ⚠️ **DEPRECATED & ARCHIVED — DO NOT USE IN PRODUCTION / NO USAR EN PRODUCCIÓN**  
-> **ES:** Este plugin **NO SE USA EN PRODUCCIÓN** en DrakesCraft. Fue descartado y reemplazado en su totalidad por **[MultiverseNets](https://github.com/DrakesCraft-Labs/MultiverseNets)** (logística digital soberana de Chagui68) y **[NetworksV6-drake](https://github.com/DrakesCraft-Labs/NetworksV6-drake)** (para Slimefun). Este repositorio se mantiene **exclusivamente como archivo histórico y de mantenimiento pasivo** si alguien envía pull requests o reporta errores externos.  
-> **EN:** This plugin is **NOT USED IN PRODUCTION**. It has been completely superseded by **[MultiverseNets](https://github.com/DrakesCraft-Labs/MultiverseNets)** and **[NetworksV6-drake](https://github.com/DrakesCraft-Labs/NetworksV6-drake)**. Kept strictly for legacy maintenance.
+> **ES:** Este plugin **NO SE USA EN PRODUCCIÓN** en DrakesCraft. Fue descartado y reemplazado en su totalidad por **[MultiverseNets](https://github.com/SlimefunNewHorizons/MultiverseNets)** (logística digital soberana de Chagui68) y **[NetworksV6-drake](https://github.com/SlimefunNewHorizons/NetworksV6-drake)** (para Slimefun). Este repositorio se mantiene **exclusivamente como archivo histórico y de mantenimiento pasivo** si alguien envía pull requests o reporta errores externos.  
+> **EN:** This plugin is **NOT USED IN PRODUCTION**. It has been completely superseded by **[MultiverseNets](https://github.com/SlimefunNewHorizons/MultiverseNets)** and **[NetworksV6-drake](https://github.com/SlimefunNewHorizons/NetworksV6-drake)**. Kept strictly for legacy maintenance.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/Networks---Better-Compatibility-Unofficial-/main/banner.svg" width="100%" alt="NETWORKS BETTER COMPATIBILITY Animated Banner" />
+  <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/Networks---Better-Compatibility-Unofficial-/main/banner.svg" width="100%" alt="NETWORKS BETTER COMPATIBILITY Animated Banner" />
 </p>
 
 # Networks - Better Compatibility (Unofficial)
@@ -51,7 +51,7 @@ de Slimefun: no hace falta ningún comando especial para empezar.
 |---|---|
 | Servidor | Paper / Purpur **1.21.11** |
 | Java | **21** |
-| Requiere | [Slimefun4-Drake](https://github.com/DrakesCraft-Labs/Slimefun4-Drake) |
+| Requiere | [Slimefun4-Drake](https://github.com/SlimefunNewHorizons/Slimefun4-Drake) |
 | Lado | Solo servidor — quien juega no instala nada |
 | Versión | ${project.version} |
 
@@ -67,7 +67,7 @@ de Slimefun: no hace falta ningún comando especial para empezar.
 ## Créditos
 - Sefiraat
 
-Port y mantenimiento por **DrakesCraft Labs**. La autoría original es de quien figura arriba; el detalle está en [docs/UPSTREAM_ATTRIBUTION.md](https://raw.githubusercontent.com/DrakesCraft-Labs/Networks---Better-Compatibility-Unofficial-/main/docs/UPSTREAM_ATTRIBUTION.md).
+Port y mantenimiento por **DrakesCraft Labs**. La autoría original es de quien figura arriba; el detalle está en [docs/UPSTREAM_ATTRIBUTION.md](https://raw.githubusercontent.com/SlimefunNewHorizons/Networks---Better-Compatibility-Unofficial-/main/docs/UPSTREAM_ATTRIBUTION.md).
 
 Licencia **GPL-3.0-only**.
 
@@ -75,7 +75,7 @@ Licencia **GPL-3.0-only**.
 
 ## 📄 License & Upstream Attribution
 
-This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons).
 
 - **Original Project:** Created by the upstream authors and the open-source community.
 - **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
