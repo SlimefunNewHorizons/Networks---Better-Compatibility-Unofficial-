@@ -1,3 +1,9 @@
+<!-- credits:start -->
+> **Credits & license.** Port and maintenance by [JackStar6677-1](https://github.com/JackStar6677-1) and [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Original authors (from plugin.yml; upstream verification pending): Sefiraat, Chagui68. Upstream license: **GNU General Public License v3.0** (see [LICENSE](LICENSE)). Details: [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md) · Policy: [Rights & Attribution](https://github.com/SlimefunNewHorizons/.github/blob/main/RIGHTS_AND_ATTRIBUTION.md). Independent community project, not affiliated with or endorsed by the original authors or the official Slimefun team.
+>
+> **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales (segun plugin.yml; verificacion del upstream pendiente): Sefiraat, Chagui68. Licencia: **GNU General Public License v3.0**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
+<!-- credits:end -->
+
 > ⚠️ **DEPRECATED & ARCHIVED — DO NOT USE IN PRODUCTION / NO USAR EN PRODUCCIÓN**  
 > **ES:** Este plugin **NO SE USA EN PRODUCCIÓN** en DrakesCraft. Fue descartado y reemplazado en su totalidad por **[MultiverseNets](https://github.com/SlimefunNewHorizons/MultiverseNets)** (logística digital soberana de Chagui68) y **[NetworksV6-drake](https://github.com/SlimefunNewHorizons/NetworksV6-drake)** (para Slimefun). Este repositorio se mantiene **exclusivamente como archivo histórico y de mantenimiento pasivo** si alguien envía pull requests o reporta errores externos.  
 > **EN:** This plugin is **NOT USED IN PRODUCTION**. It has been completely superseded by **[MultiverseNets](https://github.com/SlimefunNewHorizons/MultiverseNets)** and **[NetworksV6-drake](https://github.com/SlimefunNewHorizons/NetworksV6-drake)**. Kept strictly for legacy maintenance.
